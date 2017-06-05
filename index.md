@@ -56,7 +56,7 @@
 
 			<li> Ensino superior (cursando): UVA (Universidade Veiga de Almeida) - Sistemas de informação</li>
 
-			<li> Técnico em informática: SENAI Maracanã
+			<li> Técnico em informática: SENAI Maracanã</li>
 			 
 		</ul>
 
